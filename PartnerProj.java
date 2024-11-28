@@ -2,7 +2,6 @@ import java.util.stream.IntStream;
 
 public class PartnerProj
 {
-
 	public static void main(String[] args)
 	{
 		if(args.length != 2)
@@ -21,7 +20,6 @@ public class PartnerProj
 			System.out.println("Invalid input");
 		}
 	}
-
 
 
 }
